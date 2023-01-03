@@ -1,4 +1,4 @@
-# Delete-all-VK-music
+#  VKMusicDeleter
 Удаляет всю музыку ВКонтакте.
 
 Списка исключений нет.
